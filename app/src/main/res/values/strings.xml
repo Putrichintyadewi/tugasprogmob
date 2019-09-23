@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Data Nilai Mahasiswa</string>
+    <string name="name">Nama : </string>
+    <string name="NIM">NIM : </string>
+    <string name="Matakuliah">Matakuliah : </string>
+    <string name="h_nama">Enter Nama</string>
+    <string name="h_NIM">Enter NIM</string>
+    <string name="h_Nilai">Enter Nilai</string>
+    <string name="store">Store</string>
+    <string name="add">Add New Teacher</string>
+    <string name="mod">Modify</string>
+    <string name="inst_text">To Edit,\nTap on the Items from the List</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+</resources>
